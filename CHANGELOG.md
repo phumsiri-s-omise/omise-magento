@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Unreleased]
+### Changed
+- Updated omise-php library from 2.18.0 to 3.0.0
+- Updated minimum PHP version requirement from 5.6 to 7.4
+- Updated Omise API version from 2017-11-02 to 2019-05-29
+
 ## [v3.9.0 _(Mar, 17, 2025)_](https://github.com/omise/omise-magento/releases/tag/v3.9.0)
 - Rebranding Opn Payments to Omise (PR: [#495](https://github.com/omise/omise-magento/pull/495))
 

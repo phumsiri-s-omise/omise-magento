@@ -7,6 +7,12 @@ Omise Payments provides a set of APIs that help merchants of any size accept pay
 
 **Omise Magento** is our official plugin providing support for processing payments on Magento through Omise Payments.
 
+## Requirements
+
+* PHP 7.4 or higher
+* Magento 2.x
+* omise-php 3.0.0
+
 ## Security Warning
 
 **Please do NOT use Omise Magento plugin versions less than 2.18.6, as they are outdated and have security vulnerabilities.**
